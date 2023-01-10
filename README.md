@@ -43,5 +43,5 @@ A new game can be commenced by pressing the "New Game" button which resets the g
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Roneeey/RudeRatingWidget)
+- Solution URL: [GitHub](https://github.com/Roneeey/PigGame)
 - Live Site URL: [GitHub Pages](https://roneeey.github.io/PigGame/)
